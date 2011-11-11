@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.version = "0.1.10"
   
   s.add_dependency('rake', '~>0.8.7')
-  s.add_dependency('rails', '~3')
+  s.add_dependency('rails', '~>3')
   s.add_dependency('sass')
   s.add_dependency('haml')
   s.add_dependency('mongo')
